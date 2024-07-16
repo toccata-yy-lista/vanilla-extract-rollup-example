@@ -8,7 +8,7 @@ export const buttonColor = createVar();
 
 export const buttonRecipe = recipe({
   base: [atoms({
-    display: 'inline-flex',
+    display: 'inline',
   }),
   {
     background: 'transparent',
